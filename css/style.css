@@ -1,0 +1,25 @@
+
+* {
+	box-sizing: border-box;
+}
+nav {
+	background: #999894;
+	border: 1px solid #000;
+}
+.inner {
+	background: #999894;
+	border: 1px solid #00000;
+	padding: 10px;
+	border: 1px solid #000;
+	width: 100%;
+	position: relative;
+}
+
+
+.my-2 {
+    margin-top: 1.5rem !important;
+}
+
+h2 {
+	text-align: center;
+}
